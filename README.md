@@ -1,7 +1,7 @@
 # Supermarket sales Analysis
 
 ## Introduction - 
-n this Data Project the author will be looking at sales data from a supermarket. The sales data was obatined from Kaggle.The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. The dataset will be used to analysed
+In this Data Project the author will be looking at sales data from a supermarket. The sales data was obatined from Kaggle.The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. The dataset will be used to analysed
 
 
 This project includes steps as follows:
